@@ -1,0 +1,11 @@
+Age,Attrition,Department,MonthlyIncome,JobRole,TotalWorkingYears,YearsAtCompany,OverTime,Education,WorkLifeBalance,Attrition_Flag,TenureBucket
+34,Yes,Sales,4500,Sales Executive,10,5,Yes,3,2,1,2-5 yrs
+28,No,R&D,6200,Research Scientist,5,2,No,4,3,0,0-2 yrs
+45,No,HR,3800,HR Executive,20,15,No,2,4,0,10-20 yrs
+29,Yes,R&D,5000,Research Scientist,4,3,Yes,3,2,1,2-5 yrs
+41,No,Sales,7200,Sales Executive,12,7,No,4,3,0,5-10 yrs
+37,Yes,HR,4100,HR Executive,8,4,Yes,2,2,1,2-5 yrs
+50,No,R&D,8300,Manager,25,20,No,5,4,0,10-20 yrs
+32,No,Finance,4700,Analyst,6,3,No,4,3,0,2-5 yrs
+26,Yes,Finance,3900,Analyst,3,1,Yes,3,2,1,0-2 yrs
+38,No,Sales,6900,Manager,14,10,No,4,3,0,5-10 yrs
